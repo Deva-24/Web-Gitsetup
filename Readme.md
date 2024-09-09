@@ -22,9 +22,9 @@ Linux Commands:
   Description: Moves or rename files or directories.
   Usage: "mv source destination".
 
-6."rm"
+6."rm command"
   Description: Remove files or directories.
-  Usage: "rm file" or "rm -r directory" (for recursive removal)
+  Usage: "rm file" or "rm -r directory" (for recursive removal).
 
 7."mkdir"
   Description: Create a new directory.
