@@ -34,9 +34,9 @@ Linux Commands:
   Description: Remove an empty directory.
   Usage: "rmdir directory_name"
 
-9."touch"
+9."touch command"
   Description: Create an empty file or update the timestamp of an existing file.
-  Usage: "touch file_name"
+  Usage: " touch file_name "
 
 10."cat"
    Description: Concatenate and display file content.
