@@ -58,9 +58,9 @@ Linux Commands:
    Description: Display information about running processes.
    Usage: "ps aux" (for detailed process list).
 
-15."top"
+15."top command"
    Description: Display a real-time view of system processes.
-   Usage: "top
+   Usage: "top -v"
 
 
 
