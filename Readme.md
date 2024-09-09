@@ -38,7 +38,7 @@ Linux Commands:
   Description: Create an empty file or update the timestamp of an existing file.
   Usage: " touch file_name "
 
-10."cat"
+10."cat command"
    Description: Concatenate and display file content.
    Usage: "cat file_name"
 
