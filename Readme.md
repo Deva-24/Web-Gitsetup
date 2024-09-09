@@ -42,25 +42,25 @@ Linux Commands:
    Description: Concatenate and display file content.
    Usage: "cat file_name"
 
-11."grep"
+11."grep command"
    Description: Search text using patterns.
-   Usage: "grep 'pattern' file_name"
+   Usage: "grep 'pattern' file_name".
 
-12."find"
+12."find commands"
    Description: Search for files and directories.
-   Usage: "find /path -name 'file_name'"
+   Usage: "find /path -name 'file_name' ".
 
-13."chmod"
+13."chmod Commands"
    Description: Change file permissions.
-   Usage: "chmod 755 file_name" (for setting read/write/execute permissions)
+   Usage: "chmod 755 file_name" (for setting read/write/execute permissions).
 
-14."ps"
+14."ps commands"
    Description: Display information about running processes.
-   Usage: "ps aux" (for detailed process list)
+   Usage: "ps aux" (for detailed process list).
 
-15."top"
+15."top command"
    Description: Display a real-time view of system processes.
-   Usage: "top
+   Usage: "top -v"
 
 
 
