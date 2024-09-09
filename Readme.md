@@ -50,9 +50,9 @@ Linux Commands:
    Description: Search for files and directories.
    Usage: "find /path -name 'file_name' ".
 
-13."chmod"
+13."chmod Commands"
    Description: Change file permissions.
-   Usage: "chmod 755 file_name" (for setting read/write/execute permissions)
+   Usage: "chmod 755 file_name" (for setting read/write/execute permissions).
 
 14."ps"
    Description: Display information about running processes.
