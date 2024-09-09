@@ -26,7 +26,7 @@ Linux Commands:
   Description: Remove files or directories.
   Usage: "rm file" or "rm -r directory" (for recursive removal).
 
-7."mkdir"
+7."mkdir command"
   Description: Create a new directory.
   Usage: "mkdir directory_name"
 
