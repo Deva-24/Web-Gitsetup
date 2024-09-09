@@ -30,7 +30,7 @@ Linux Commands:
   Description: Create a new directory.
   Usage: "mkdir directory_name"
 
-8."rmdir"
+8."rmdir command"
   Description: Remove an empty directory.
   Usage: "rmdir directory_name"
 
