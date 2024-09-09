@@ -42,9 +42,9 @@ Linux Commands:
    Description: Concatenate and display file content.
    Usage: "cat file_name"
 
-11."grep"
+11."grep command"
    Description: Search text using patterns.
-   Usage: "grep 'pattern' file_name"
+   Usage: "grep 'pattern' file_name".
 
 12."find"
    Description: Search for files and directories.
