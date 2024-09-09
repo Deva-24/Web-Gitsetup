@@ -67,7 +67,7 @@ Linux Commands:
 
 Git Commands:
 
-1."git init"
+1."git init command"
    Description: Initialize a new Git repository.
    Usage: "git init"
 
