@@ -46,9 +46,9 @@ Linux Commands:
    Description: Search text using patterns.
    Usage: "grep 'pattern' file_name".
 
-12."find"
+12."find commands"
    Description: Search for files and directories.
-   Usage: "find /path -name 'file_name'"
+   Usage: "find /path -name 'file_name' ".
 
 13."chmod"
    Description: Change file permissions.
