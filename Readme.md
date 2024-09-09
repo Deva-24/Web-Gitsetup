@@ -67,6 +67,12 @@ Linux Commands:
 
 Git Commands:
 
+<<<<<<< HEAD
+=======
+1."git init command"
+   Description: Initialize a new Git repository.
+   Usage: "git init"
+>>>>>>> 9dea49ae1826ba7d98a0e8a3173c44f5294e711e
 
 1." git init command"
    Description : Initialize a new Git repository.
