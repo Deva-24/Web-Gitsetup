@@ -1,13 +1,14 @@
 Cheat Sheet
 
-Linux Commands 
-1."ls"
- Description: List directory contents.
- Usage: "ls" or "ls -l" (for detailed list)
+Linux Commands: 
+ 
+1."ls command"
+ Description: It will List directory contents.
+ Usage: "ls" or "ls -l" (for detailed list).
 
-2."cd"
+2."cd command"
   Description: Change directory.
-  Usage: "cd /path/to/directory"
+  Usage: "cd /path/to/directory".
 
 3."pwd"
   Description: Print the working directory.
