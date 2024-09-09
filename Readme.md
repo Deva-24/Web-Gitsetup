@@ -67,39 +67,40 @@ Linux Commands:
 
 Git Commands:
 
-1."git init"
-   Description: Initialize a new Git repository.
-   Usage: "git init"
 
-2."git clone"
+1." git init command"
+   Description : Initialize a new Git repository.
+   Usage : "git init"
+
+2."git clone command"
    Description: Clone a repository into a new directory.
    Usage: "git clone repository_url"
 
-3."git status"
+3."git status command"
    Description: Show the working tree status.
    Usage: "git status"
 
-4."git add"
+4."git add command"
    Description: Add file contents to the staging area.
    Usage: "git add file_name" or "git add ." (for all changes)
 
-5."git commit"
+5."git commit command"
    Description: Record changes to the repository.
    Usage: "git commit -m "commit message""
 
-6."git push"
+6."git push command"
    Description: Update remote refs along with associated objects.
    Usage: "git push origin branch_name"
 
-7."git pull"
+7."git pull command"
    Description: Fetch from and integrate with another repository or a local branch.
    Usage: "git pull origin branch_name"
 
-8."git fetch"
-   Description: Download objects and refs from another repository.
+8."git fetch command"
+   Description: Download objects and referencse from  another repository.
    Usage: "git fetch"
 
-9."git branch"
+9."git branch command"
    Description: List, create, or delete branches.
    Usage: "git branch" (list branches) or "git branch branch_name" (create new branch)
 
@@ -112,7 +113,7 @@ Git Commands:
     Usage: "git merge branch_name"
 
 12."git log"
-    Description: Show the commit logs.
+    Description: Show the commit logs or history of the works.
     Usage: "git log"
 
 13."git reset"
@@ -124,6 +125,6 @@ Git Commands:
     Usage: "git diff" or "git diff commit_hash"
 
 15."git stash"
-   Description: Stash the changes in a dirty working directory.
-   Usage: "git stash" or "git stash pop" (to apply stashed changes)
+   Description: Stash the changes in a dirty working directory .
+   Usage: "git stash" or " git stash pop " (to apply stashed changes)
 
