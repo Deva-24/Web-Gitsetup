@@ -54,9 +54,9 @@ Linux Commands:
    Description: Change file permissions.
    Usage: "chmod 755 file_name" (for setting read/write/execute permissions).
 
-14."ps"
+14."ps commands"
    Description: Display information about running processes.
-   Usage: "ps aux" (for detailed process list)
+   Usage: "ps aux" (for detailed process list).
 
 15."top"
    Description: Display a real-time view of system processes.
