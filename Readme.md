@@ -14,13 +14,13 @@ Linux Commands:
   Description:It will Print the working directory.
   Usage: pwd
 
-4."cp"
+4."cp command"
   Description: Copy files or directories.
-  Usage: "cp source destination" or "cp -r source_dir destination_dir"
+  Usage: "cp source destination" or "cp -r source_directory destination_directory command"
 
-5."mv"
-  Description: Move or rename files or directories.
-  Usage: "mv source destination"
+5."mv command"
+  Description: Moves or rename files or directories.
+  Usage: "mv source destination".
 
 6."rm"
   Description: Remove files or directories.
