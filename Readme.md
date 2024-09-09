@@ -1,4 +1,4 @@
-Cheat Sheet
+::Cheat Sheet::
 
 Linux Commands: 
  
@@ -67,12 +67,6 @@ Linux Commands:
 
 Git Commands:
 
-<<<<<<< HEAD
-=======
-1."git init command"
-   Description: Initialize a new Git repository.
-   Usage: "git init"
->>>>>>> 9dea49ae1826ba7d98a0e8a3173c44f5294e711e
 
 1." git init command"
    Description : Initialize a new Git repository.
@@ -133,4 +127,7 @@ Git Commands:
 15."git stash command"
    Description: Stash the changes in a dirty working directory .
    Usage: "git stash" or " git stash pop " (to apply stashed changes)
+
+
+EOF
 
