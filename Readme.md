@@ -108,23 +108,23 @@ Git Commands:
     Description: Switch branches or restore working tree files.
     Usage: "git checkout branch_name" or "git checkout file_name"
 
-11."git merge"
+11."git merge command"
     Description: Join two or more development histories together.
     Usage: "git merge branch_name"
 
-12."git log"
+12."git log command"
     Description: Show the commit logs or history of the works.
     Usage: "git log"
 
-13."git reset"
+13."git reset command"
     Description: Reset current HEAD to the specified state.
     Usage: "git reset --hard commit_hash"
 
-14."git diff"
+14."git diff command"
     Description: Show changes between commits, commit and working tree, etc.
     Usage: "git diff" or "git diff commit_hash"
 
-15."git stash"
+15."git stash command"
    Description: Stash the changes in a dirty working directory .
    Usage: "git stash" or " git stash pop " (to apply stashed changes)
 
