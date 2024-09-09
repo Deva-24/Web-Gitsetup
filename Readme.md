@@ -10,9 +10,9 @@ Linux Commands:
   Description: Change directory.
   Usage: "cd /path/to/directory".
 
-3."pwd"
-  Description: Print the working directory.
-  Usage: "pwd"
+3."pwd command"
+  Description:It will Print the working directory.
+  Usage: pwd
 
 4."cp"
   Description: Copy files or directories.
